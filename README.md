@@ -18,12 +18,6 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 <a href="https://github.com/sivasankaramalan/github-readme-stats">
   <img align="left" src="https://github-readme-stats.sivasankaramalan.vercel.app/api/pin/?username=sivasankaramalan&repo=github-readme-stats" />
 </a>
-
-<a href="https://github.com/sivasankaramalan/sivasankaramalan.github.io">
-  <img align="left" src="https://github-readme-stats.sivasankaramalan.vercel.app/api/pin/?username=sivasankaramalan&repo=sivasankaramalan.github.io" />
-</a>
-
-
 <!--![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)-->
 
 <!--
