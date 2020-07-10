@@ -13,14 +13,14 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 - 💬 Ask me about ... App Automation
 - 📫 How to reach me: ... ssmalan94@gmail.com | +91 - 9003999957
 
-![Sivasankaramalan GitHub Stats](https://github-readme-stats.Sivasankaramalan.vercel.app/api?username=Sivasankaramalan&show_icons=true&hide_border=true)
+![Sivasankaramalan GitHub Stats](https://github-readme-stats.sivasankaramalan.vercel.app/api?username=sivasankaramalan&show_icons=true&hide_border=true)
 
-<a href="https://github.com/Sivasankaramalan/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.Sivasankaramalan.vercel.app/api/pin/?username=Sivasankaramalan&repo=github-readme-stats" />
+<a href="https://github.com/sivasankaramalan/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.sivasankaramalan.vercel.app/api/pin/?username=sivasankaramalan&repo=github-readme-stats" />
 </a>
 
-<a href="https://github.com/Sivasankaramalan/Sivasankaramalan.github.io">
-  <img align="left" src="https://github-readme-stats.Sivasankaramalan.vercel.app/api/pin/?username=Sivasankaramalan&repo=Sivasankaramalan.github.io" />
+<a href="https://github.com/sivasankaramalan/sivasankaramalan.github.io">
+  <img align="left" src="https://github-readme-stats.sivasankaramalan.vercel.app/api/pin/?username=sivasankaramalan&repo=sivasankaramalan.github.io" />
 </a>
 
 
