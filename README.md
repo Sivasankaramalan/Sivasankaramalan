@@ -13,7 +13,7 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 - 💬 Ask me about ... App Automation
 - 📫 How to reach me: ... ssmalan94@gmail.com | +91 - 9003999957
 
-![Sivasankaramalan GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasankaramalan&show_icons=true&hide_border=true)
+![Sivasankaramalan GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasankaramalan&show_icons=true&hide_border=false)
 <!--![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)-->
 
 <!--
