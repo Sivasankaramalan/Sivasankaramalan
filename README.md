@@ -13,8 +13,18 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 - 💬 Ask me about ... App Automation
 - 📫 How to reach me: ... ssmalan94@gmail.com | +91 - 9003999957
 
-![Sivasankaramalan GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasankaramalan&show_icons=true&hide_border=false)
-<!--![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)-->
+
+### Languages and Tools:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+[![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
+<br />
+<a href="https://github.com/Sivasankaramalan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=tokyonight&layout=compact&" />
+</a>
 
 <!--
 **Sivasankaramalan/Sivasankaramalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
