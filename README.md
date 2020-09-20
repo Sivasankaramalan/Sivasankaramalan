@@ -25,6 +25,8 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
 <code><img height="40" src="https://i.imgur.com/VyjCJuz.png"></code>
 
+### GitHub Stats:
+
 [![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=Sivasankaramalan&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev) 
 <a href="https://github.com/Sivasankaramalan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankaramalan&theme=tokyonight&layout=compact&" />
