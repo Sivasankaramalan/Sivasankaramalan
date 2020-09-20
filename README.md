@@ -20,7 +20,10 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-[![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=Sivasankaramalan&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
+[![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=Sivasankaramalan&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev) <br />
+<a href="https://github.com/Sivasankaramalan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankaramalan&theme=tokyonight&layout=compact&" />
+</a>
 
 <!--
 **Sivasankaramalan/Sivasankaramalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
