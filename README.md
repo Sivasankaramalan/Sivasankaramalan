@@ -23,7 +23,7 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 [![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
 <br />
 <a href="https://github.com/Sivasankaramalan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=tokyonight&layout=compact&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankaramalan&theme=tokyonight&layout=compact&" />
 </a>
 
 <!--
