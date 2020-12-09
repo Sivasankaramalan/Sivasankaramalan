@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Sivasankaramalan/Sivasankaramalan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Sivasankaramalan Gunasekarasivam
+[![Twitter Badge](https://img.shields.io/badge/-@sivasankramalan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=lightgrey&link=https://twitter.com/sivasankramalan)](https://twitter.com/sivasankramalan) [![Linkedin Badge](https://img.shields.io/badge/-sivasankaramalan-blue?style=flat-square&logo=Linkedin&logoColor=lightgrey&link=https://www.linkedin.com/in/sivasankaramalan/)](https://www.linkedin.com/in/sivasankaramalan/) [![Medium Badge](https://img.shields.io/badge/-@Shivgss-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Shivgss)](https://medium.com/@Shivgss)
+[![Gmail Badge](https://img.shields.io/badge/-ssmalan94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=lightgrey&link=mailto:ssmalan94@gmail.com)](mailto:ssmalan94@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hola!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passionate about mobile technologies and open source.
 
-### Markdown
+- 🔭 I’m currently working on ... OkCredit
+- 🌱 I’m currently learning ... Building Tools
+- 👯 I’m looking to collaborate on ... OSS
+- 🤔 I’m looking for help with ... App Development 
+- 💬 Ask me about ... App Automation
+- 📫 How to reach me: ... ssmalan94@gmail.com | +91 - 9003999957
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Languages and Tools:
 
-# Header 1
-## Header 2
-### Header 3
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="http://jenkins-ci.org/sites/default/files/jenkins_logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
+<code><img height="40" src="https://i.imgur.com/VyjCJuz.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-- Bulleted
-- List
+### GitHub Stats:
 
-1. Numbered
-2. List
+[![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=Sivasankaramalan&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev) 
+<a href="https://github.com/Sivasankaramalan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankaramalan&theme=tokyonight&layout=compact&" />
+</a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sivasankaramalan/Sivasankaramalan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!--
+**Sivasankaramalan/Sivasankaramalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
