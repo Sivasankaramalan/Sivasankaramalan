@@ -13,4 +13,4 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 - 👯 I’m looking to collaborate on ... OSS
 - 🤔 I’m looking for help with ... App Development 
 - 💬 Ask me about ... App Automation
-- 📫 How to reach me: ... ssmalan94@gmail.com | +91 - 9003999957
+- 📫 How to reach me: ... ssmalan94@gmail.com / +91 - 9003999957
