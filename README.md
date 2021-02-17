@@ -29,9 +29,10 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 ### GitHub Stats:
 
 [![Sivasankaramalan's github stats](https://github-readme-stats.vercel.app/api?username=Sivasankaramalan&count_private=true&include_all_commits=true&theme=radical)]
-<a>
+
+[<a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankaramalan&theme=tokyonight&layout=compact&" />
-</a>
+</a>]
 
 <!--
 **Sivasankaramalan/Sivasankaramalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
