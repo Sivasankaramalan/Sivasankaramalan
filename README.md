@@ -32,5 +32,11 @@ I'm Sivasankaramalan, I'm a software engineer in Test 👨‍💻 who is passion
 ![](https://activity-graph.herokuapp.com/graph?username=Sivasankaramalan&theme=github)
 
 
+## My Trending Repos 💻
+![](https://github-readme-stats.vercel.app/api/pin/?username=Sivasankaramalan&repo=ai-voice-news-app&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Sivasankaramalan&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Sivasankaramalan'></p>
+
 <!--
 **Sivasankaramalan/Sivasankaramalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
