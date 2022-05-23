@@ -27,8 +27,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sivasankaramalan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sivasankaramalan&theme=nightowl&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankaramalan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://activity-graph.herokuapp.com/graph?username=Sivasankaramalan&theme=github)
-
 <details> <summary> GitHub Trophies 🏆</summary>
  
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=Sivasankaramalan&theme=gruvbox&no-bg=true&no-frame=true)
