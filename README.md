@@ -29,6 +29,10 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Sivasankaramalan&theme=github)
 
+<details> <summary> GitHub Trophies 🏆</summary>
+ 
+![GitHub Medals](https://github-profile-trophy.vercel.app/?username=Sivasankaramalan&theme=gruvbox&no-bg=true&no-frame=true)
+</details>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sivasankaramalan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
