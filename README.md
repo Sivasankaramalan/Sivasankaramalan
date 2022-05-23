@@ -8,6 +8,18 @@
 
 
 ## 🌐 Socials
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Sivasankaramalan) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sivasankaramalan.g) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sivasankaramalan) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sivasankaramalan G) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sivasankaramalan) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sivasankaramalan G) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sivasankaramalan) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sivasankaramalan G) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thinklikeshiv) 
+
+
 [![Twitter Badge](https://img.shields.io/badge/-@thinklikeshiv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=lightgrey&link=https://twitter.com/sivasankramalan)](https://twitter.com/sivasankramalan) [![Linkedin Badge](https://img.shields.io/badge/-sivasankaramalan-blue?style=flat-square&logo=Linkedin&logoColor=lightgrey&link=https://www.linkedin.com/in/sivasankaramalan/)](https://www.linkedin.com/in/sivasankaramalan/) [![Medium Badge](https://img.shields.io/badge/-@Shivgss-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Shivgss)](https://medium.com/@Shivgss)
 [![Gmail Badge](https://img.shields.io/badge/-ssmalan94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=lightgrey&link=mailto:ssmalan94@gmail.com)](mailto:ssmalan94@gmail.com)
 
