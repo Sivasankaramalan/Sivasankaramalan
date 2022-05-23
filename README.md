@@ -34,8 +34,12 @@
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=Sivasankaramalan&theme=gruvbox&no-bg=true&no-frame=true)
 </details>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/Sivasankaramalan/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=Sivasankaramalan&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sivasankaramalan&icon=0&color=0)](https://visitcount.itsvg.in)
