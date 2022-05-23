@@ -34,9 +34,6 @@
 ![GitHub Medals](https://github-profile-trophy.vercel.app/?username=Sivasankaramalan&theme=gruvbox&no-bg=true&no-frame=true)
 </details>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sivasankaramalan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
