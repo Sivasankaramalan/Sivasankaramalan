@@ -36,7 +36,7 @@
 
 
 <p align="center">
-<img src="https://Sivasankaramalan/Sivasankaramalan/blob/master/github-contribution-grid-snake.svg">
+<img src="https://github.com/Sivasankaramalan/Sivasankaramalan/blob/master/github-contribution-grid-snake.svg">
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Sivasankaramalan&pretty=true)](https://github-visitor-counter-pro.vercel.app)
