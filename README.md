@@ -36,18 +36,14 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> Socials
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/link.png" width="22" height="22" /> Socials
 
-[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinklikeshiv)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thinklikeshiv)
 [![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
 [![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan)
-[![Stack%20Overflow](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
+[![StackOverflow](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
 [![Dev.to](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG)
 [![Hashnode](https://img.shields.io/badge/-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SivaG)
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> Socials
-
-[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinklikeshiv) [![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan) [![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan) [![Stack%20Overflow](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan) [![Dev.to](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG) [![Hashnode](https://img.shields.io/badge/-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SivaG)
 
 ---
 
