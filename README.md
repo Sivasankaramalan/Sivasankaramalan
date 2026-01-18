@@ -36,18 +36,13 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
-## 🌐 Socials
-[![Gmail Badge](https://img.shields.io/badge/-ssmalan94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=lightgrey&link=mailto:ssmalan94@gmail.com)](mailto:ssmalan94@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thinklikeshiv)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sivasankaramalan.g)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Shivgss)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Sivasankaramalan)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sivasankaramalan)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sivasankaramalan)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sivasankaramalan)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sivasankaramalan)
-
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/share-nodes.svg" width="22" height="22" /> Socials
+[![X](https://img.shields.io/badge/Twitter-@thinklikeshiv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinklikeshiv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sivasankaramalan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
+[![Medium](https://img.shields.io/badge/Medium-@Shivgss-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan)
+[![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-Sivasankaramalan-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
+[![Dev.to](https://img.shields.io/badge/dev.to-SivaG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG)
+[![Hashnode](https://img.shields.io/badge/Hashnode-@SivaG-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SivaG)
 
 ---
 
