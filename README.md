@@ -37,7 +37,7 @@ I build products, own systems end to end, and use AI as a native engineering lay
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/share-2.png" width="22" height="22" /> Socials
-[!(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thinklikeshiv)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thinklikeshiv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan)
 [![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
