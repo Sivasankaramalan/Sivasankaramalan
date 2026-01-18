@@ -36,13 +36,18 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/share-nodes.svg" width="22" height="22" /> Socials
-[![X](https://img.shields.io/badge/Twitter-@thinklikeshiv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinklikeshiv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sivasankaramalan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
-[![Medium](https://img.shields.io/badge/Medium-@Shivgss-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan)
-[![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-Sivasankaramalan-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
-[![Dev.to](https://img.shields.io/badge/dev.to-SivaG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG)
-[![Hashnode](https://img.shields.io/badge/Hashnode-@SivaG-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SivaG)
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> Socials
+
+[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinklikeshiv)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
+[![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan)
+[![Stack%20Overflow](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
+[![Dev.to](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG)
+[![Hashnode](https://img.shields.io/badge/-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SivaG)
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22" /> Socials
+
+[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thinklikeshiv) [![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan) [![Medium](https://img.shields.io/badge/-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan) [![Stack%20Overflow](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan) [![Dev.to](https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG) [![Hashnode](https://img.shields.io/badge/-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@SivaG)
 
 ---
 
