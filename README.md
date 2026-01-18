@@ -1,5 +1,5 @@
-# I'm Siva <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" height="50" />
----
+# Hello! I'm Siva <img src="https://raw.githubusercontent.com/Sivasankaramalan/Sivasankaramalan/siva_terminal.gif" width="28" height="28" />
+
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
 [![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Discovery%20%E2%86%92%20Design%20%E2%86%92%20Build%20%E2%86%92%20Iterate%20%E2%86%92%20Scale-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#)<br/>
