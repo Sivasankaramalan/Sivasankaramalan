@@ -1,4 +1,4 @@
-# Hello! I'm Siva <img src="https://raw.githubusercontent.com/Sivasankaramalan/Sivasankaramalan/master/siva_terminal.gif" width="50" height="50" />
+# Hello! I'm Siva <img src="https://raw.githubusercontent.com/Sivasankaramalan/Sivasankaramalan/master/siva_terminal.gif" width="40" height="40" />
 
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
