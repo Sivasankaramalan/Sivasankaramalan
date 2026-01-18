@@ -2,11 +2,11 @@
 
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
-[![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Idea%20%E2%86%92%20Shipped%20Platform-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#) : from idea to shipped platform
-[![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%7C%20MCP%20%7C%20Copilot%20Certified-000000?style=for-the-badge&logo=openai&logoColor=white)](#) : Cursor, MCP workflows, GitHub Copilot (certified)
-[![Systems Ownership](https://img.shields.io/badge/Systems%20Ownership-Architecture%20%7C%20Reliability%20%7C%20Observability-1C1C1C?style=for-the-badge&logo=googlecloud&logoColor=white)](#) : architecture, reliability, automation, observability
-[![Program Leadership](https://img.shields.io/badge/Program%20Leadership-Roadmap%20%7C%20Release%20Governance%20%7C%20Alignment-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) : Roadmap execution, release governance, stakeholder alignment
-[![Building GoLocally & Local.Ally](https://img.shields.io/badge/Building-GoLocally.in%20%7C%20Local.Ally-DF7020?style=for-the-badge&logo=vercel&logoColor=white)](#) Building GoLocally.in (parent platform) and Local.Ally (community + travel tech)
+[![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Idea%20%E2%86%92%20Shipped%20Platform-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#)
+[![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%7C%20MCP%20%7C%20Copilot%20Certified-000000?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Systems Ownership](https://img.shields.io/badge/Systems%20Ownership-Architecture%20%7C%20Reliability%20%7C%20Observability-1C1C1C?style=for-the-badge&logo=googlecloud&logoColor=white)](#) 
+[![Program Leadership](https://img.shields.io/badge/Program%20Leadership-Roadmap%20%7C%20Release%20Governance%20%7C%20Alignment-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) 
+[![Building GoLocally & Local.Ally](https://img.shields.io/badge/Building-GoLocally.in%20%7C%20Local.Ally-DF7020?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
