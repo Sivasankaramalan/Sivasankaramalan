@@ -36,8 +36,7 @@ I build products, own systems end to end, and use AI as a native engineering lay
 - Release readiness: risk based gating and production discipline
 
 ---
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="26" height="26" /> Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" width="26" height="26" /> Tech Stack
 <details>
   <summary><b>AI Tools (Daily Drivers)</b></summary>
   <br/>
