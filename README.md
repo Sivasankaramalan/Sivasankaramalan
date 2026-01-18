@@ -2,16 +2,35 @@
 
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
-I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
+[![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Idea%20%E2%86%92%20Shipped%20Platform-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#)<br/>
+- Product discovery → solution design → build → iterate → scale
+- Mobile first engineering with strong UX, performance, and stability mindset
+- Architecture decisions driven by long term maintainability and cost to change
+- Owned multiple systems in production across web, mobile, and APIs
 
-| Focus Area | |
-| --- | --- |
-| Product Engineering | [![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Idea%20%E2%86%92%20Shipped%20Platform-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#) |
-| Native AI Engineer | [![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%7C%20MCP%20%7C%20Copilot%20Certified-000000?style=for-the-badge&logo=openai&logoColor=white)](#) |
-| Systems Ownership | [![Systems Ownership](https://img.shields.io/badge/Systems%20Ownership-Architecture%20%7C%20Reliability%20%7C%20Observability-1C1C1C?style=for-the-badge&logo=googlecloud&logoColor=white)](#) |
-| Program Leadership | [![Program Leadership](https://img.shields.io/badge/Program%20Leadership-Roadmap%20%7C%20Release%20Governance%20%7C%20Alignment-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) |
-| Building | [![Building GoLocally & Local.Ally](https://img.shields.io/badge/Building-GoLocally.in%20%7C%20Local.Ally-DF7020?style=for-the-badge&logo=vercel&logoColor=white)](#) |
+[![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%7C%20MCP%20%7C%20Copilot%20Certified-000000?style=for-the-badge&logo=openai&logoColor=white)](#)<br/>
+- Cursor first workflow for coding, refactoring, debugging, and test generation
+- MCP based toolchains to automate repetitive engineering tasks and quality checks
+- GitHub Copilot certified, using AI with guardrails (reviews, checks, quality gates)
+- AI assisted documentation, release notes, RCA reports, and engineering playbooks
 
+[![Systems Ownership](https://img.shields.io/badge/Systems%20Ownership-Architecture%20%7C%20Reliability%20%7C%20Observability-1C1C1C?style=for-the-badge&logo=googlecloud&logoColor=white)](#)<br/>
+- End to end ownership: system design, delivery, monitoring, incidents, improvements
+- Built scalable automation and CI pipelines for faster feedback and fewer regressions
+- Reliability engineering: flake control, reruns strategy, stability engineering
+- Observability driven triage using dashboards, logs, and alerting (Grafana, Kibana)
+
+[![Program Leadership](https://img.shields.io/badge/Program%20Leadership-Roadmap%20%7C%20Release%20Governance%20%7C%20Alignment-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)<br/>
+- Roadmap planning, milestone tracking, and risk management
+- Release governance: readiness checklist, go no go criteria, rollback discipline
+- Cross functional alignment across engineering, product, business, and design
+- Mentoring teams to ship predictable, high quality releases
+
+[![Building GoLocally & Local.Ally](https://img.shields.io/badge/Building-GoLocally.in%20%7C%20Local.Ally-DF7020?style=for-the-badge&logo=vercel&logoColor=white)](#)
+- GoLocally.in: parent platform brand and product foundation
+- Local.Ally: community based platform blended with travel tech experiences
+- Building with modern stack, scalable architecture, and product first thinking
+- Strong focus on trust, privacy, moderation, and long term community value
 ---
 
 ## What I’m focused on
