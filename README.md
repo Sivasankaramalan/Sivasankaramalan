@@ -1,4 +1,4 @@
-# I'm Siva <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30" height="30" />
+# I'm Siva <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30" height="30" />
 ---
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
