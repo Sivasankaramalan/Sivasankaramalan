@@ -77,30 +77,32 @@ I build products, own systems end to end, and use AI as a native engineering lay
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot%20(Certified)-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-
 ![MCP](https://img.shields.io/badge/MCP%20(Agents%20%26%20Tooling)-0A0FFF?style=for-the-badge&logo=protocols-dot-io&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1C1C1C?style=for-the-badge&logo=codeium&logoColor=white)
 ![SpecKit](https://img.shields.io/badge/SpecKit-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white)
-
 ![LangChain](https://img.shields.io/badge/LangChain-0B0B0B?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=graphql&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6D28D9?style=for-the-badge&logo=meta&logoColor=white)
-
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LM%20Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![OpenAI%20API](https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Vercel%20AI%20SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A0FFF?style=for-the-badge&logo=pinecone&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
-## Links
-- 📩 Email: [ssmalan94@gmail.com](mailto:ssmalan94@gmail.com)
-- 💼 LinkedIn: https://linkedin.com/in/sivasankaramalan  
-- ✍️ Medium: https://medium.com/@Shivgss  
-- 🧠 Twitter: https://twitter.com/thinklikeshiv  
+
+## 🌐 Socials
+[![Gmail Badge](https://img.shields.io/badge/-ssmalan94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=lightgrey&link=mailto:ssmalan94@gmail.com)](mailto:ssmalan94@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thinklikeshiv)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sivasankaramalan.g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Shivgss)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Sivasankaramalan)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sivasankaramalan)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sivasankaramalan)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sivasankaramalan)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sivasankaramalan)
+
 
 ---
 
