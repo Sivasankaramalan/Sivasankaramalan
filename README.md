@@ -3,7 +3,7 @@
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
 [![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Discovery%20%E2%86%92%20Design%20%E2%86%92%20Build%20%E2%86%92%20Iterate%20%E2%86%92%20Scale-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#)<br/>
-[![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%E2%86%92%20MCP%20Agents%20%E2%86%92%20Copilot%20Certified-000000?style=for-the-badge&logo=openai&logoColor=white)](#)<br/>
+[![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%E2%86%92%20MCP%20Agents%20%E2%86%92%20Copilot%20Certified-000000?style=for-the-badge&logo=github&logoColor=white)](#)<br/>
 [![Systems Ownership](https://img.shields.io/badge/Systems%20Ownership-Architecture%20%E2%86%92%20Reliability%20%E2%86%92%20Observability-1C1C1C?style=for-the-badge&logo=googlecloud&logoColor=white)](#)<br/>
 [![Program Leadership](https://img.shields.io/badge/Program%20Leadership-Roadmap%20%E2%86%92%20Execution%20%E2%86%92%20Release%20Governance-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)<br/>
 [![Building GoLocally & Local.Ally](https://img.shields.io/badge/Building-GoLocally.in%20%E2%86%92%20Local.Ally%20%E2%86%92%20Community%20Platform-DF7020?style=for-the-badge&logo=vercel&logoColor=white)](#)
