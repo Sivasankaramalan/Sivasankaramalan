@@ -1,4 +1,5 @@
-# Hola! I'm Siva <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="26" height="26" />
+# I'm Siva <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="26" height="26" />
+
 ---
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
