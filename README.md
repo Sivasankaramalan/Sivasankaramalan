@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/Systems%20Owner-1C1C1C?style=for-the-badge" alt="Systems Owner"/>
 </p>
 
-I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
-
 [![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Discovery%20%E2%86%92%20Design%20%E2%86%92%20Build%20%E2%86%92%20Iterate%20%E2%86%92%20Scale-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#)<br/>
 [![Native AI Engineer](https://img.shields.io/badge/Native%20AI%20Engineer-Cursor%20%E2%86%92%20MCP%20Agents%20%E2%86%92%20Copilot%20Certified-000000?style=for-the-badge&logo=cursor&logoColor=white)](#)<br/>
 [![Systems Ownership](https://img.shields.io/badge/Systems%20Ownership-Architecture%20%E2%86%92%20Reliability%20%E2%86%92%20Observability-1C1C1C?style=for-the-badge&logo=googlecloud&logoColor=white)](#)<br/>
@@ -20,6 +18,8 @@ I build products, own systems end to end, and use AI as a native engineering lay
 ---
 
 ### <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="20" height="20" /> What I Focus On
+
+I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
 - Designing **agentic workflows** with tool use, MCP, hooks, and reliable handoffs
 - Using **AI-native engineering** in day-to-day product and systems work
