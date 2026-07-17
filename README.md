@@ -19,15 +19,6 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
-### **<img src="https://img.icons8.com/ios-filled/50/ffffff/verified-account.png" width="20" height="20" /> Certifications**
-
-[![Claude Certified Architect Foundations](https://img.shields.io/badge/Claude%20Architect-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/badges/6a66934b-a962-431f-a7fd-c64ca9256179/public_url)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/users/sivasankaramalan/credentials/9f2b9433ce3c091c)
-[![Gemini Enterprise Agent Development](https://img.shields.io/badge/Gemini%20Enterprise-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://www.credly.com/badges/af9bcd35-3f2e-4475-b704-68a522bb05d3/)
-[![Atlassian Rovo](https://img.shields.io/badge/Atlassian%20Rovo-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/94163f6a05624384a51c2d9dc9770a7d)
-
----
-
 ### <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="20" height="20" /> What I Focus On
 
 - Designing **agentic workflows** with tool use, MCP, hooks, and reliable handoffs
@@ -35,8 +26,17 @@ I build products, own systems end to end, and use AI as a native engineering lay
 - Building production-ready systems with clear architecture, observability, and release discipline
 - Shipping products from discovery through design, build, iterate, and scale
 - Treating **context management** and **tokenomics** as first-class constraints — budget what the model sees, measure cost per outcome, cut waste without losing quality
-
+  
 **Native AI loop:** `Spec → Agent (MCP / tools) → Review → Eval → Ship` — with context budgets, prompt hygiene, and token attribution at every handoff.
+
+---
+
+### **<img src="https://img.icons8.com/ios-filled/50/ffffff/verified-account.png" width="20" height="20" /> Certifications**
+
+[![Claude Certified Architect Foundations](https://img.shields.io/badge/Claude%20Architect-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/badges/6a66934b-a962-431f-a7fd-c64ca9256179/public_url)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/users/sivasankaramalan/credentials/9f2b9433ce3c091c)
+[![Gemini Enterprise Agent Development](https://img.shields.io/badge/Gemini%20Enterprise-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://www.credly.com/badges/af9bcd35-3f2e-4475-b704-68a522bb05d3/)
+[![Atlassian Rovo](https://img.shields.io/badge/Atlassian%20Rovo-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/94163f6a05624384a51c2d9dc9770a7d)
 
 ---
 
