@@ -1,5 +1,14 @@
 # Hello! I'm Siva <img src="https://raw.githubusercontent.com/Sivasankaramalan/Sivasankaramalan/master/siva_terminal.gif" width="40" height="40" />
 
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/artificial-intelligence.png" width="22" height="22" alt="AI"/>
+  <img src="https://img.shields.io/badge/Native%20AI%20Engineer-1C1C1C?style=for-the-badge" alt="Native AI Engineer"/>
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/source-code.png" width="22" height="22" alt="Code"/>
+  <img src="https://img.shields.io/badge/Product%20Builder-1C1C1C?style=for-the-badge" alt="Product Builder"/>
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/imac.png" width="22" height="22" alt="Computer"/>
+  <img src="https://img.shields.io/badge/Systems%20Owner-1C1C1C?style=for-the-badge" alt="Systems Owner"/>
+</p>
+
 I build products, own systems end to end, and use AI as a native engineering layer to move faster without compromising quality.
 
 [![Product Engineering](https://img.shields.io/badge/Product%20Engineering-Discovery%20%E2%86%92%20Design%20%E2%86%92%20Build%20%E2%86%92%20Iterate%20%E2%86%92%20Scale-0A0FFF?style=for-the-badge&logo=producthunt&logoColor=white)](#)<br/>
@@ -10,10 +19,28 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
+### **<img src="https://img.icons8.com/ios-filled/50/ffffff/verified-account.png" width="20" height="20" /> Certifications**
+
+[![Claude Certified Architect Foundations](https://img.shields.io/badge/Claude%20Architect-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/badges/6a66934b-a962-431f-a7fd-c64ca9256179/public_url)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.microsoft.com/en-us/users/sivasankaramalan/credentials/9f2b9433ce3c091c)
+[![Gemini Enterprise Agent Development](https://img.shields.io/badge/Gemini%20Enterprise-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://www.credly.com/badges/af9bcd35-3f2e-4475-b704-68a522bb05d3/)
+[![Atlassian Rovo](https://img.shields.io/badge/Atlassian%20Rovo-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://cp.certmetrics.com/atlassian/en/public/verify/credential/94163f6a05624384a51c2d9dc9770a7d)
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/50/ffffff/briefcase.png" width="20" height="20" /> What I Focus On
+
+- Designing **agentic workflows** with tool use, MCP, hooks, and reliable handoffs
+- Using **AI-native engineering** in day-to-day product and systems work
+- Building production-ready systems with clear architecture, observability, and release discipline
+- Shipping products from discovery through design, build, iterate, and scale
+
+---
+
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="20" height="20" /> Tech Stack
 **AI Tools (Daily Drivers)**  
 #### <img src="https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png" width="20" height="20" /> AI Core
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot%20(Certified)-000000?style=for-the-badge&logo=github&logoColor=white) ![Claude](https://img.shields.io/badge/Claude(Certified)-111111?style=for-the-badge&logo=anthropic&logoColor=white) [![Gemini](https://img.shields.io/badge/Gemini(Certified)-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/) [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/) [![Codex](https://custom-icon-badges.demolab.com/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/) [![MCP](https://img.shields.io/badge/MCP%20(Agents%20%26%20Tooling)-0A0FFF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot%20(Certified)-000000?style=for-the-badge&logo=github&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20Code%20(Certified)-111111?style=for-the-badge&logo=anthropic&logoColor=white) [![Gemini](https://img.shields.io/badge/Gemini%20Enterprise%20(Certified)-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/) [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/) [![Codex](https://custom-icon-badges.demolab.com/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/) [![MCP](https://img.shields.io/badge/MCP%20(Agents%20%26%20Tooling)-0A0FFF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 #### <img src="https://img.icons8.com/ios-filled/50/ffffff/workflow.png" width="20" height="20" /> AI Toolchain
 ![agent.md](https://img.shields.io/badge/agent.md-1C1C1C?style=for-the-badge&logo=markdown&logoColor=white) ![Goose](https://img.shields.io/badge/Goose-111111?style=for-the-badge&logo=gitbook&logoColor=white) ![Jules](https://img.shields.io/badge/Jules%20(Google)-4285F4?style=for-the-badge&logo=google&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-1C1C1C?style=for-the-badge&logo=codeium&logoColor=white) ![SpecKit](https://img.shields.io/badge/SpecKit-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0B0B0B?style=for-the-badge&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6D28D9?style=for-the-badge&logo=meta&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![LM%20Studio](https://img.shields.io/badge/LM%20Studio-111111?style=for-the-badge&logo=windowsterminal&logoColor=white) ![OpenAI%20API](https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white) ![Vercel%20AI%20SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Warp](https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white)
 
@@ -54,9 +81,29 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
+### **<img src="https://img.icons8.com/ios-filled/50/ffffff/opened-folder.png" width="20" height="20" /> Featured Work**
+
+| Project | What it is |
+| --- | --- |
+| [![INSIGHTS](https://img.shields.io/badge/INSIGHTS-AI%20Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://github.com/Sivasankaramalan/INSIGHTS) | Plug-and-play AI observability for Copilot, Claude Code, Cursor, and Gemini — attribution, metrics, and quality |
+| [![EcoPilot](https://img.shields.io/badge/EcoPilot-MCP%20Cost%20Control-0A0FFF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://github.com/Sivasankaramalan/ecopilot) | Human-in-the-loop MCP tools + prompt hygiene to cut Copilot premium requests and token waste |
+| [![Claude Architect Playbook](https://img.shields.io/badge/Claude%20Architect%20Playbook-Study%20Guide-111111?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Sivasankaramalan/claude-architect-playbook) | Public community study guide for Claude Certified Architect Foundations |
+| [![GoLocally](https://img.shields.io/badge/GoLocally.in-Community%20Platform-DF7020?style=for-the-badge&logo=vercel&logoColor=white)](#) | Local discovery and community product in progress |
+| [![Local.Ally](https://img.shields.io/badge/Local.Ally-Community%20Platform-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) | Companion community platform in progress |
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/50/ffffff/handshake.png" width="20" height="20" /> Open To
+
+- Collaborating on AI-native product and agentic system builds
+- Sharing architecture patterns for Claude, Gemini, Copilot, Cursor, and MCP
+- Mentoring engineers adopting AI-first workflows
+
+---
+
 ### **<img src="https://img.icons8.com/ios-filled/50/ffffff/share-2.png" width="20" height="20" /> Socials**
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thinklikeshiv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivasankaramalan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivasankaramalan/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/sivasankaramalan)
 [![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/sivasankaramalan)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SivaG)
@@ -69,4 +116,6 @@ I build products, own systems end to end, and use AI as a native engineering lay
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Sivasankaramalan&style=for-the-badge&color=0A0A0A)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sivasankaramalan&style=for-the-badge&color=0A0A0A" alt="Profile views"/>
+</p>
